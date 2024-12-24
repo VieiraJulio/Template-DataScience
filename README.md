@@ -1,10 +1,8 @@
-# Análise Estatística para Checagem do Engajamento no Instagram
+### Análise Estatística para Checagem do Engajamento no Instagram | Python
 
 Este projeto tem como objetivo principal analisar o engajamento do perfil do Instagram da empresa, buscando identificar padrões e estratégias eficazes para melhorar a interação com o público. Utilizando técnicas de análise de dados e visualização, o trabalho foca em compreender métricas importantes como curtidas, comentários, compartilhamentos e o alcance das publicações.
 
-![imagem](imagem/Instagram.jpg)
-
-## Organização do projeto
+### Organização do projeto
 
 ```
 ├── .gitignore         <- Arquivos e diretórios a serem ignorados pelo Git
@@ -23,7 +21,7 @@ Este projeto tem como objetivo principal analisar o engajamento do perfil do Ins
 │   └── imagens        <- Gráficos e figuras gerados para serem usados em relatórios
 ```
 
-## Base de Dados 
+### Base de Dados 
 
 Colunas 
 
@@ -47,18 +45,18 @@ Colunas
 
  - Interações: Representa o total de ações tomadas pelos seguidores na postagem, como curtidas, comentários, salvamentos e compartilhamentos, sendo um indicador geral de engajamento.
 
-   ## Resumo dos Resultados
+### Resumo dos Resultados
 
-   - Podemos observar que no top 5 todas as postagens tinham pessoas e eram fotos de campanha.
+- Podemos observar que no top 5 todas as postagens tinham pessoas e eram fotos de campanha.
      
-   - Nas 5 piores postagens, não haviam pessoas e nem eram postagens de campanhas. Isso pode ser um indicador que pessoas e campanhas tem relação com as curtidas.
+- Nas 5 piores postagens, não haviam pessoas e nem eram postagens de campanhas. Isso pode ser um indicador que pessoas e campanhas tem relação com as curtidas.
   
-   - Parecer que vídeo e IGTV são estratégias ruins que não devem ser usadas.
+- Parecer que vídeo e IGTV são estratégias ruins que não devem ser usadas.
   
-   - Postagens com pessoas engajam muito mais para essa marca, sendo 3 vezes maior de quando não tem pessoas.
+- Postagens com pessoas engajam muito mais para essa marca, sendo 3 vezes maior de quando não tem pessoas.
   
-   - Quando é uma postagem de campanha, o engajamento também é melhor!
+- Quando é uma postagem de campanha, o engajamento também é melhor!
   
-   - A média sem usar carrossel é melhor do que quando usamos, então não é algo que possa impactar tanto no resultado das mídias dessa empresa olhando inicialmente.
+- A média sem usar carrossel é melhor do que quando usamos, então não é algo que possa impactar tanto no resultado das mídias dessa empresa olhando inicialmente.
   
-   - A média quando tem pessoas E é publicação de campanhas é de cerca de 19,4 mil curtidas, já quando é apenas pessoas (sem campanha passa para quase 10 mil e se não tiver pessoas chega no máximo a 5,9 mil mesmo em campanhas. Nesse caso a gente já consegue mostrar para a empresa a importância de incluir pessoas usando os seus produtos, o que gera um aumento considerável no engajamento.
+- A média quando tem pessoas E é publicação de campanhas é de cerca de 19,4 mil curtidas, já quando é apenas pessoas (sem campanha passa para quase 10 mil e se não tiver pessoas chega no máximo a 5,9 mil mesmo em campanhas. Nesse caso a gente já consegue mostrar para a empresa a importância de incluir pessoas usando os seus produtos, o que gera um aumento considerável no engajamento.
